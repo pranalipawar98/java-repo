@@ -10,7 +10,7 @@ public class ReplaceNumber {
 		Scanner input = new Scanner(System.in);
 		
 		int num = input.nextInt();
-		System.out.println(fizzBuzz(num));
+		System.out.println(fizzBuzz(num)); 
 		
 		
 	}
